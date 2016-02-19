@@ -21,7 +21,7 @@ int clockAdjustment; // I use this to manage my delays so things work smoother
 bool lastReading; // Used to detect change from day-time to night-time
 
 /* ==== ISR is run when after a the WDT interrupt ==== */
-// I found this whole function online, can't find too many details about it
+// Good info found here: http://www.nongnu.org/avr-libc/user-manual/group__avr__interrupts.html
 ISR(WDT_vect) {
   if(f_wdt == 0) {
     f_wdt = 1;
