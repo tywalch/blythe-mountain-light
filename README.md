@@ -1,7 +1,7 @@
 Blythe Mountain Light
 ===========
 
-The Blythe Mountain Light Project is the realization of a Rick Swanner's dream to put a light at the top of the highest peak in Blythe, CA. The project is a collaborative effort between myself and BJ Swanner.
+The Blythe Mountain Light Project is the realization of a Rick Swanner's dream to put a light at the top of the highest peak in Blythe, CA. 
 
 ## Project Requirements
 ### 1. Light installation to function in an exposed outdoor desert environment. 
