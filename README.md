@@ -24,11 +24,5 @@ All expenses related to purchases of components, sensors, panels, and hardware t
 3. Research and Identify ideal components/sensors/controllers 
 4. Program/test microcontroller 
 
-### BJ Swanner
-1. Research and identify ideal sustainable power solution
-2. Research and identify ideal power storage option
-3. Research and identify ideal main light solution
-4. Research and identify ideal installation location
-
 ## Component/Parts List
 ** ITEMS AND TOTALS TO BE ADDED **
